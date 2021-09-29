@@ -1,4 +1,16 @@
 # practice-branching-and-prs
-heyyyyyy 
+## hi
+### hi
+#### hi 
 
-jan was here
+### question 1
+ my answer here
+---
+### question 2
+my answer
+[this is a link for github](github.com)
+*bold*
+***italic***
+---
+### question 4
+ my answer
