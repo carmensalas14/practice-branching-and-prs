@@ -3,14 +3,18 @@
 ### hi
 #### hi 
 
-### question 1
+# question 1
  my answer here
 ---
-### question 2
+
+#  question 2
 my answer
 [this is a link for github](github.com)
+
 *bold*
+
 ***italic***
 ---
-### question 4
+
+# question 4
  my answer
